@@ -1,0 +1,8 @@
+{
+  "name": "@tiagonapoli/test-pkg-b",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:tiagonapoli/test-pkg-b",
+  "author": "tiagonapoli <tiago.napoli@vtex.com.br>",
+  "license": "MIT"
+}
